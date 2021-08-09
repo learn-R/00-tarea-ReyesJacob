@@ -81,7 +81,7 @@ R: R es un lenguaje de programaci�n y Rstudio la interfaz?
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
 
-R:
+R:Push Origin en GitHub Desktop.
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
